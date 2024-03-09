@@ -1,0 +1,3 @@
+import hesaplamalar.hesapmakinesi
+import oyunlar.oyunlar
+print(Hoş geldin)
