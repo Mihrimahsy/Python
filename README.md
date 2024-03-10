@@ -6,5 +6,5 @@
 <hr>
 <img src="resimler/anaekran.png" alt=anamenu>
 <br>
-Projem anna ekranda kullanıcıya seçenekleri sunar ve seçmesini ister.
+Projem anna ekranda kullanıcıya seçenekleri sunar ve seçmesini ister.<br>
 Seçmek için 
