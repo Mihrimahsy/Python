@@ -2,7 +2,7 @@
 #print(")
 import hesaplamalar.hesapmakinesi
 import oyunlar.oyun
-import nothesabı
+import anamenu.nothesabı as nothesabı
 print ('Hoş geldin')
 
 def anamenu():
